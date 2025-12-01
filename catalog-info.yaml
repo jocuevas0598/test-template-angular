@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-template-angular
+  annotations:
+    github.com/project-slug: jocuevas0598/test-template-angular
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
